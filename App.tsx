@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Header from './components/Header';
 import FilterBar from './components/FilterBar';
 import CollegeList from './components/CollegeList';
-import Footer from './components/Footer';
+import Footer from './components/Footer'; 
 import { collegeData } from './data/colleges';
 import { FilterOptions, GroupedCollegeData } from './types';
 import { 
